@@ -16,14 +16,6 @@ I’m Belal Rezk, a frontend developer with 2+ years of experience building mode
 ![](https://nirzak-streak-stats.vercel.app/?user=BR-BelalRezk&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BR-BelalRezk&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=BR-BelalRezk&theme=react&no-frame=true&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=BR-BelalRezk&limit=5&theme=react&combine_all_yearly_contributions=true)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=BR-BelalRezk&icon=8&color=12)](https://visitcount.itsvg.in)
